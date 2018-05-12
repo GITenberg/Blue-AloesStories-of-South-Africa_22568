@@ -1,0 +1,29 @@
+_repo: Blue-AloesStories-of-South-Africa_22568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stockley, Cynthia
+    birthdate: 1883
+    deathdate: 1936
+    gutenberg_agent_id: '25417'
+    url: http://www.gutenberg.org/2009/agents/25417
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2007-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22568'
+  lccn: '19026165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Social life and customs -- Fiction'
+- !lcc 'PR'
+tableOfContents: Blue Aloes -- The leopard -- Rosanne Ozanne -- April folly.
+title: 'Blue Aloes: Stories of South Africa'
+url: http://www.gutenberg.org/ebooks/22568
